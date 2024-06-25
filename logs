@@ -1,0 +1,54 @@
+2024-05-08 01:57:14 starting authenfication
+2024-05-08 01:57:16 Authentication successful. Welcome, bob
+2024-05-08 01:57:16 test passed
+2024-05-08 01:57:16 exe file is valid
+2024-05-08 01:57:17 key cleared
+2024-05-08 01:57:17 session end
+
+2024-05-08 01:57:21 starting authenfication
+2024-05-08 01:57:24 Authentication successful. Welcome, alice
+2024-05-08 01:57:24 test passed
+2024-05-08 01:57:24 exe file is valid
+2024-05-08 01:57:26 key cleared
+2024-05-08 01:57:26 session end
+
+2024-05-24 18:45:23 starting authenfication
+2024-05-24 18:45:25 Authentication successful. Welcome, bob
+2024-05-24 18:45:25 test passed
+2024-05-24 18:45:25 exe file is valid
+2024-05-24 18:45:27 key cleared
+2024-05-24 18:45:27 session end
+
+2024-05-27 08:02:30 starting authenfication
+2024-05-27 08:02:32 Authentication successful. Welcome, bob
+2024-05-27 08:02:32 test passed
+2024-05-27 08:02:32 exe file is valid
+2024-05-27 08:06:37 key cleared
+2024-05-27 08:06:37 session end
+
+2024-05-27 08:06:46 starting authenfication
+2024-05-27 08:06:49 Authentication failed
+2024-05-27 08:06:50 exit program at authenfication
+2024-05-27 08:06:50 session end
+
+2024-05-27 08:06:51 starting authenfication
+2024-05-27 08:06:54 Authentication successful. Welcome, bob
+2024-05-27 08:06:54 test passed
+2024-05-27 08:06:54 exe file is valid
+2024-05-27 08:06:55 key cleared
+2024-05-27 08:06:55 session end
+
+2024-05-27 08:07:02 starting authenfication
+2024-05-27 08:07:04 Authentication successful. Welcome, bob
+2024-05-27 08:07:04 test passed
+2024-05-27 08:07:04 exe file is valid
+2024-05-27 08:07:06 key cleared
+2024-05-27 08:07:06 session end
+
+2024-05-31 15:02:55 starting authenfication
+2024-05-31 15:02:58 Authentication successful. Welcome, bob
+2024-05-31 15:02:58 test passed
+2024-05-31 15:02:58 exe file is valid
+2024-05-31 15:05:34 key cleared
+2024-05-31 15:05:34 session end
+
